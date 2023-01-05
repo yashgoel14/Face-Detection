@@ -1,0 +1,2 @@
+# Face-Detection
+With 6 landmarks and multi-facial support, MediaPipe Face Detection is a lightning-fast face detection solution. The detector's super-realtime performance enables it to be used in any live viewfinder experience that needs a precise facial region of interest as an input for other task-specific models, like 3D facial keypoint estimation (for example, MediaPipe Face Mesh), facial features or expression classification, and face region segmentation.
